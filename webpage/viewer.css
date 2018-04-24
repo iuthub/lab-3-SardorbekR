@@ -32,8 +32,7 @@ li {
 	padding-bottom: 0.5em;
 	font-family: Verdana;
 }
-
-#listarea {
+.listarea {
 	background-color: #DDEEFF;
 	border: 5px double blue;
 	padding: 0;
